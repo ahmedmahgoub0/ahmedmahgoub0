@@ -39,6 +39,7 @@
 
 </p>
 
+<!--
 ## 📈 Stats
 <p align="center">
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedmahgoub0&theme=tokyonight" />
@@ -56,7 +57,7 @@
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 </div>
-
+-->
 
 
 <!-- [![ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmahgoub0&hide_border=true&theme=tokyo-night)](https://github.com/ahmedmahgoub0) -->
